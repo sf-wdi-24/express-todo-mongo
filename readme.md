@@ -1,6 +1,6 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Express To Do App Continued
 
-**Objective:** Add MongoDB and Mongoose to your To Do app.
+**Objective:** Add MongoDB and Mongoose to your To Do app. Use today's <a href="https://github.com/sf-wdi-24/modules/tree/master/week-03-resetful-server-express/day-04" target="_blank">MongoDB and Mongoose</a> modules as a guide.
 
 ## Getting Started
 
@@ -23,4 +23,4 @@
 ## Submission
 
 * As you make code changes, frequently commit and push to GitHub.
-* Once you've finished the assignment and pushed your work to GitHub, make a pull request from **YOUR `solution-mongo` branch** to the original repo.
+* Once you've finished the assignment and pushed your work to GitHub, make a pull request from **your `solution-mongo` branch** to the original repo.

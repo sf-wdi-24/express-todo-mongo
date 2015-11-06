@@ -4,14 +4,14 @@
 
 ## Getting Started
 
-1. Make a new branch in your <a href="" target="_blank">express-todo-app</a> called `solution-mongo`.
+1. Make a **new branch** in your <a href="" target="_blank">express-todo-app</a> called `solution-mongo`.
 2. Set up Mongoose in your To Do app. This includes installing the Mongoose module, creating a schema for your blog posts, and requiring the schema in your `server.js`.
 3. Use Mongoose methods to perform all of your API's CRUD operations. Your app should have five API routes:
-  * GET `/api/todos` should get all the todos from the database collection.
-  * POST `/api/todos` should create a new todo in the database collection.
-  * GET `/api/todos/:id` should get one todo document.
-  * PUT `/api/todos/:id` should update a todo document.
-  * DELETE `/api/todos/:id` should delete a todo document.
+  * `GET /api/todos` should get all the todos from the database collection.
+  * `POST /api/todos` should create a new todo in the database collection.
+  * `GET /api/todos/:id` should get one todo document.
+  * `PUT /api/todos/:id` should update a todo document.
+  * `DELETE /api/todos/:id` should delete a todo document.
 4. Test all your API routes with Postman before testing if the addition of Mongoose affected anything on your client-side. (It shouldn't have, but it's good to make sure.)
 
 ## Bonus

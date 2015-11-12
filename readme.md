@@ -1,10 +1,10 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Express To Do App Continued
 
-**Objective:** Add MongoDB and Mongoose to your To Do app. Use today's <a href="https://github.com/sf-wdi-24/modules/tree/master/week-03-resetful-server-express/day-04" target="_blank">MongoDB and Mongoose</a> modules as a guide.
+**Objective:** Add MongoDB and Mongoose to your To Do app. Use today's <a href="https://github.com/sf-wdi-24/modules/tree/master/week-03-restful-server-express/day-04" target="_blank">MongoDB and Mongoose</a> modules as a guide.
 
 ## Getting Started
 
-1. Make a **new branch** in your <a href="" target="_blank">express-todo-app</a> called `solution-mongo`.
+1. Make a **new branch** in your <a href="https://github.com/sf-wdi-24/express-todo-app" target="_blank">express-todo-app</a> called `solution-mongo`.
 2. Set up Mongoose in your To Do app. This includes installing the Mongoose module, creating a schema for your todos, and requiring the schema in your `server.js`.
 3. Use Mongoose methods to perform all of your API's CRUD operations. Your app should have five API routes:
   * `GET /api/todos` should get all the todos from the database collection.

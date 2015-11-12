@@ -5,7 +5,7 @@
 ## Getting Started
 
 1. Make a **new branch** in your <a href="" target="_blank">express-todo-app</a> called `solution-mongo`.
-2. Set up Mongoose in your To Do app. This includes installing the Mongoose module, creating a schema for your blog posts, and requiring the schema in your `server.js`.
+2. Set up Mongoose in your To Do app. This includes installing the Mongoose module, creating a schema for your todos, and requiring the schema in your `server.js`.
 3. Use Mongoose methods to perform all of your API's CRUD operations. Your app should have five API routes:
   * `GET /api/todos` should get all the todos from the database collection.
   * `POST /api/todos` should create a new todo in the database collection.
@@ -17,7 +17,7 @@
 ## Bonus
 
 1. Read about <a href="http://mongoosejs.com/docs/validation" target="_blank">validations</a> and the built-in <a href="http://mongoosejs.com/docs/api.html#schematype_SchemaType-required" target="_blank">required validator</a> in Mongoose.
-2. Add the required validator to all fields in your blog post schema.
+2. Add the required validator to all fields in your todo schema.
 3. In your API routes to create and update todos, respond with the error message if the required validation is not met.
 
 ## Submission

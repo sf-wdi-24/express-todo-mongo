@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-1. Make a **new branch** in your <a href="https://github.com/sf-wdi-24/express-todo-app" target="_blank">express-todo-app</a> called `solution-mongo`.
+1. Make a **new branch** in your <a href="https://github.com/sf-wdi-24/express-todo-app" target="_blank">express-todo-app</a> called `mongo`.
 2. Set up Mongoose in your To Do app. This includes installing the Mongoose module, creating a schema for your todos, and requiring the schema in your `server.js`.
 3. Use Mongoose methods to perform all of your API's CRUD operations. Your app should have five API routes:
   * `GET /api/todos` should get all the todos from the database collection.
@@ -23,4 +23,4 @@
 ## Submission
 
 * As you make code changes, frequently commit and push to GitHub.
-* Once you've finished the assignment and pushed your work to GitHub, make a pull request from **your `solution-mongo` branch** to the original repo.
+* Once you've finished the assignment and pushed your work to GitHub, make a pull request from **your `mongo` branch** to the original repo.
